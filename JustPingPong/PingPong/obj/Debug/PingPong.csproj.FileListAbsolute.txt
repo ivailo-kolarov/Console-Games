@@ -1,0 +1,7 @@
+C:\Ivo\JustPingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Ivo\JustPingPong\PingPong\bin\Debug\PingPong.exe
+C:\Ivo\JustPingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Ivo\JustPingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\Ivo\JustPingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Ivo\JustPingPong\PingPong\obj\Debug\PingPong.exe
+C:\Ivo\JustPingPong\PingPong\obj\Debug\PingPong.pdb
